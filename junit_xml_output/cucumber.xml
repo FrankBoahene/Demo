@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="31.748396">
-<testcase classname="MyAccount_Login Feature" name="Log-in with valid username and password" time="31.748396">
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="25.519061">
+<testcase classname="MyAccount_Login Feature" name="Log-in with valid username and password" time="25.519061">
 <system-out><![CDATA[Given Open browser..........................................................passed
 When Enter the url "http://practice.automationtesting.in/my-account/".......passed
 And Click on My Account Menu................................................passed
