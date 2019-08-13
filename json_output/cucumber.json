@@ -3,7 +3,7 @@
     "line": 1,
     "elements": [
       {
-        "start_timestamp": "2019-08-01T08:21:38.757Z",
+        "start_timestamp": "2019-08-12T16:31:10.658Z",
         "line": 4,
         "name": "Log-in with valid username and password",
         "description": "",
@@ -13,7 +13,7 @@
         "steps": [
           {
             "result": {
-              "duration": 10164559900,
+              "duration": 6555704200,
               "status": "passed"
             },
             "line": 5,
@@ -25,7 +25,7 @@
           },
           {
             "result": {
-              "duration": 4269059300,
+              "duration": 12896357700,
               "status": "passed"
             },
             "line": 6,
@@ -43,7 +43,7 @@
           },
           {
             "result": {
-              "duration": 5101396300,
+              "duration": 3961837700,
               "status": "passed"
             },
             "line": 7,
@@ -55,7 +55,7 @@
           },
           {
             "result": {
-              "duration": 455228500,
+              "duration": 319803100,
               "status": "passed"
             },
             "line": 8,
@@ -67,7 +67,7 @@
           },
           {
             "result": {
-              "duration": 4153369700,
+              "duration": 3104627200,
               "status": "passed"
             },
             "line": 9,
@@ -79,7 +79,7 @@
           },
           {
             "result": {
-              "duration": 77961300,
+              "duration": 75198200,
               "status": "passed"
             },
             "line": 10,
@@ -91,7 +91,7 @@
           },
           {
             "result": {
-              "duration": 1257524000,
+              "duration": 921871000,
               "status": "passed"
             },
             "line": 11,
