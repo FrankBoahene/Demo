@@ -30,7 +30,7 @@ public class MyAccountLoginStepDefinitions {
 		driver.findElement(By.linkText("My Account")).click();
 	}
 
-	@And("Enter registered username and  password")
+	@And("Enter registered username and password")
 	public void enter_registered_username_and_password() {
 		driver.findElement(By.id("username")).sendKeys("pavanoltraining");
 		driver.findElement(By.id("password")).sendKeys("Test@selenium123"); 
@@ -50,7 +50,10 @@ public class MyAccountLoginStepDefinitions {
 	
 	@Then("Close browser")
 	public void close_browser() {
-	   driver.quit();
-	}
+	   driver.close();
+	
+  }
+
+
 }
 	
